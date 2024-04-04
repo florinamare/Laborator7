@@ -1,0 +1,40 @@
+[ [ "ex2.SetTobe", {
+  "producator" : "SONIC",
+  "pret" : 800,
+  "tipTobe" : [ "ex2.TipTobe", "ELECTRONICE" ],
+  "nrTobe" : 7,
+  "nrCinele" : 12
+} ], [ "ex2.SetTobe", {
+  "producator" : "VIBRANTE",
+  "pret" : 15000,
+  "tipTobe" : [ "ex2.TipTobe", "ELECTRONICE" ],
+  "nrTobe" : 26,
+  "nrCinele" : 45
+} ], [ "ex2.Chitara", {
+  "producator" : "YAMAHA",
+  "pret" : 3500,
+  "tipChitara" : [ "ex2.TipChitara", "ACUSTICA" ],
+  "nrCorzi" : 6
+} ], [ "ex2.Chitara", {
+  "producator" : "IBANEZ",
+  "pret" : 400,
+  "tipChitara" : [ "ex2.TipChitara", "ELECTRICA" ],
+  "nrCorzi" : 7
+} ], [ "ex2.SetTobe", {
+  "producator" : "ABABBA",
+  "pret" : 200,
+  "tipTobe" : [ "ex2.TipTobe", "ACUSTICE" ],
+  "nrTobe" : 20,
+  "nrCinele" : 7
+} ], [ "ex2.SetTobe", {
+  "producator" : "RITMICE",
+  "pret" : 300,
+  "tipTobe" : [ "ex2.TipTobe", "ACUSTICE" ],
+  "nrTobe" : 8,
+  "nrCinele" : 5
+} ], [ "ex2.Chitara", {
+  "producator" : "ALHAMBRA",
+  "pret" : 350,
+  "tipChitara" : [ "ex2.TipChitara", "CLASICA" ],
+  "nrCorzi" : 6
+} ] ]
