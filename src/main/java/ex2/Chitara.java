@@ -1,6 +1,5 @@
 package ex2;
 
-
 import java.util.Objects;
 import com.fasterxml.jackson.annotation.JsonTypeInfo;
 import com.fasterxml.jackson.annotation.JsonSubTypes;
